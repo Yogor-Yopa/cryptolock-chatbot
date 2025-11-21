@@ -177,19 +177,6 @@ INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
 
 ---
 
-## ⚙️ Variáveis de Ambiente
-
-Configuradas em `.env`:
-
-```
-VERIFY_TOKEN=token_secreto_louco
-GEMINI_API_KEY=AIzaSyD5kjBhK0QQeU5TCD0e0ujpQ6VBdsYPbKo
-WHATSAPP_API_TOKEN=EAAcQVs9UhIcBPy3zGxjLVymOW1pLOo5FTZBxu8m7sAOJ2nesBpi...
-PHONE_NUMBER_ID=871512352711922
-```
-
----
-
 ## ❌ Troubleshooting
 
 **Problema:** "Token inválido"
